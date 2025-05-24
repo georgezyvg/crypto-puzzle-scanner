@@ -14,7 +14,7 @@ n=64
 StoreAllPrivateKeys=True
 CheckBalanceMode=False
 #enter the public key you aim to crack:
-pubtofind='16jY7qLJnxb7CHZyqBP8qca9d51gAjyXQN'
+pubtofind='1PWo3JeB9jrGwfHDNpdGK54CRas7fsVzXU'
 
 a=int(pow(2,n-1))
 b=int(pow(2,n))
