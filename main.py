@@ -8,7 +8,7 @@ from balance_check import *
 from directory import *
 
 #puzzle_number_to_solve:
-n=64
+n=71
 
 #Do you want this program to store all private keys?
 StoreAllPrivateKeys=True
